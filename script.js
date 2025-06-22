@@ -1,8 +1,8 @@
 
 const images = [
-    "upload/event1.jpg",
+    "upload/event1.png",
     "upload/event2.jpg",
-    "upload/event3.jpg"
+    "upload/event3.png"
 ];
 
 let currentIndex = 0;
